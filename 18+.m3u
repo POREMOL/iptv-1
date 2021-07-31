@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1, group-title="AST",AST TV 1 (18+)
-https://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1, group-title="AST",AST TV 1 HD (18+)
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1, group-title="AST",AST TV 2 (18+)
-https://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:-1, group-title="AST",AST TV 2 HD (18+)
-https://www.ast.tv/stream/2/ultra.m3u8
+#EXTINF:-1, group-title="RedTraffic",Big Ass HD 720 (18+)
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1, group-title="RedTraffic",Big Tits HD 720 (18+)
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1, group-title="RedTraffic",Blowjob HD 720 (18+)
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1, group-title="RedTraffic",Interracial HD 720 (18+)
+http://live.redtraffic.xyz/interracial.m3u8
 #EXTINF:-1, group-title="RedTraffic",Big Dick (18+)
 http://live.redtraffic.xyz/bigdick.m3u8
 #EXTINF:-1, group-title="RedTraffic",Cuckold HD
@@ -27,6 +27,8 @@ http://live.redtraffic.xyz/pov.m3u8
 http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1, group-title="RedTraffic",XXL(18+)
 http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1, group-title="RedTraffic",Milf HD 720 (18+)
+http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1, group-title="RedTraffic",Three Some (18+)
 http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 group-title="AdultIPTV",Adult IPTV Anal (18+)
@@ -149,3 +151,17 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 #EXTINF:-1,Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1,Miami TV Colombia HD (18+)
+http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+#EXTINF:-1,Visit-X TV (18+)
+http://194.116.150.47:1935/vxtv/live_360p/playlist.m3u8
+#EXTINF:-1,Visit-X TV HD (18+)
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1,Babestation24 (720p)
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/26410872606_2107_19378video_720.m3u8
+#EXTINF:0, Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:0, Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:0, Miami TV México
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
