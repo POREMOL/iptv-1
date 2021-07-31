@@ -131,3 +131,35 @@ http://s846397078.mialojamiento.es/ciw9/mp.php/http://50.7.164.28:8081/51/index.
 http://s846397078.mialojamiento.es/ciw9/mp.php/http://50.7.164.28:8081/7/index.m3u8?wmsAuthSign=1627724067p89i18i561i28S5d972f17b3e55b837ebbf9ef3317b4d4
 #EXTINF:-1 group-title="Potocall 18+", XXL
 http://s846397078.mialojamiento.es/ciw9/mp.php/http://50.7.164.28:8081/30/index.m3u8?wmsAuthSign=1627723373p89i18i561i28Sc799c378d9283fa9fbe31368198cc190
+#EXTINF:-1, Jasmin TV (720p - USA)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,Jasmin TV (SD)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1, Visit-X TV (720p)
+http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1, Visit-X TV 
+http://194.116.150.47:1935/vxtv/live_360p/playlist.m3u8
+#EXTINF:-1, Babestation24 (720p)
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1, XXX 1
+http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1, XXX 2
+http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Blue Hustler
+http://80.111.250.109:8001/1:0:16:4221:2f44:13e:820000:0:0:0
+#EXTINF:-1, Blue Hustler
+http://80.111.250.109:8001/1:0:16:4221:2f44:13e:820000:0:0:0
+#EXTINF:-1, Brazzers HD
+http://80.111.250.109:8001/1:0:1:4207:2f44:13e:820000:0:0:0
+#EXTINF:-1, Brazzers HD
+http://80.111.250.109:8001/1:0:19:4207:2f44:13e:820000:0:0:0
+#EXTINF:-1, Dorcel TV HD
+http://80.111.250.109:8001/1:0:1:4205:2f44:13e:820000:0:0:0
+#EXTINF:-1, Hustler HD
+http://80.111.250.109:8001/1:0:19:4220:2f44:13e:820000:0:0:0
+#EXTINF:-1,Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1,Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1,Visit-X TV
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
